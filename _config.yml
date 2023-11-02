@@ -1,0 +1,19 @@
+title: Elias Farnleitner
+url: ""
+baseurl: "personal_page"
+github_username: efarnleitner
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: no
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Resume"
+   link: "resume.pdf"
