@@ -4,9 +4,9 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="{{site.baseurl | prepend: site.url}}assets/sherlock.jpeg" alt="Untitled" />
+<img class="profile-picture" src="sherlock.jpg">
 
-Welcome and Servus! I am an economist currently working at the European Centre for Social Welfare Policy and Research in Vienna. I recently graduated with a master's degree in Applied Economics from the Paris School of Economics (PSE).
+Welcome and Servus! I am an economist currently working at the European Centre for Social Welfare Policy and Research in Vienna. I recently graduated with a master's degree in Applied Economics from the Paris School of Economics.
 
 ## Research Interest
 
@@ -14,6 +14,6 @@ Over the past few years, I've had the opportunity to explore various areas of ec
 
 ## Research
 
-1. K. Allinger, E. Farnleitner. "Loan repayment moratoria in CESEE: different designs and how they were perceived by the public". 2023.
-2. E. Farnleitner. "From Swarms to Strife: Desert Locust and Conflict in Africa." 2023.
+1. E. Farnleitner. "From Swarms to Strife: Desert Locust and Conflict in Africa." 2023.
+2. K. Allinger, E. Farnleitner. "Loan repayment moratoria in CESEE: different designs and how they were perceived by the public". 2024.
 
