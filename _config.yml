@@ -3,6 +3,8 @@ url: ""
 baseurl: "personal_page"
 github_username: efarnleitner
 
+remote_theme: ankitsultana/researcher@gem
+
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
