@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="_pic/sherlock.jpg">
+<img class="profile-picture" src="sherlock.jpg">
 
 Welcome and Servus! I am an economist currently working at the European Centre for Social Welfare Policy and Research in Vienna. I recently graduated with a master's degree in Applied Economics from the Paris School of Economics.
 
