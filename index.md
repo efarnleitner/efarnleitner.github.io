@@ -19,5 +19,3 @@ Over the past few years, I've had the opportunity to explore various areas of ec
 2. K. Allinger, E. Farnleitner. "Loan repayment moratoria in CESEE: different designs and how they were perceived by the public". 2024.
 
  
-
-{% include social-media-share.html %}
