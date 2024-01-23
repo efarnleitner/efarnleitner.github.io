@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="sherlock.JPG">
 
 
-Welcome and Servus! I am an economist currently working at the European Centre for Social Welfare Policy and Research in Vienna. I recently graduated with a master's degree in Applied Economics from the Paris School of Economics. From 2024, I will be working in the Research and Statistics Department at UNIDO.
+Welcome and Servus! I'm an economist currently working in the Research and Statistics Department at UNIDO in Vienna. I recently graduated with a master's degree in Economics from the Paris School of Economics. Besides juggling with data and running regressions, I'm also a football addict and always miss my bike when I'm not on it.
 
 ## Research Interest
 
