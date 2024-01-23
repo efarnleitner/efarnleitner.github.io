@@ -11,7 +11,7 @@ Welcome and Servus! I'm an economist currently working in the Research and Stati
 
 ## Research Interest
 
-Over the past few years, I've had the opportunity to explore various areas of economic research. I've been involved in projects related to Education, Labor, and Public Economics. However, my main expertise lies in development economics, specifically focusing on empirical conflict studies. In my thesis, I examined the impact of locust swarms on conflict patterns and food security in Africa. To do this, I conducted a geographically disaggregated analysis, dividing the sample into hexagonal cells of equal size and estimating the incidence of conflict for each cell as a function of swarms and a set of covariates.
+Over the past few years, I've had the opportunity to explore various areas of economic research. I've been involved in projects related to education, labor, and public economics. However, my main expertise lies in development economics, specifically focusing on empirical conflict studies. In my thesis, I examined the impact of locust swarms on conflict patterns and food security in Africa. To do this, I conducted a geographically disaggregated analysis, dividing the sample into hexagonal cells of equal size and estimating the incidence of conflict for each cell as a function of swarms and a set of covariates.
 
 ## Selected Work
 
