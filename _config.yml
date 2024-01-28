@@ -19,3 +19,5 @@ sass:
 nav:
  - name: "Resume"
    link: "resume.pdf"
+- name: "Master Thesis"
+   link: "Master_Thesis.pdf"
