@@ -17,6 +17,6 @@ Over the past few years, I've had the opportunity to explore various areas of ec
 
 1. E. Farnleitner. "From Swarms to Strife: Desert Locust and Conflict in Africa." 2023.
 2. K. Allinger, E. Farnleitner. "What you don’t know can’t help you: Public perception of COVID-19 loan repayment moratoria". 2024.
-3. E. Farnleitner, F. Hartwich. "Promoting global sustainability by investing inthe energy transition of developing countries". 2024.
+3. E. Farnleitner, F. Hartwich. "Promoting global sustainability by investing in the energy transition of developing countries". 2024.
 
  
