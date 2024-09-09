@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="sherlock.JPG">
 
 
-Welcome and Servus! I'm an economist currently working as pre-doctoral research assistant for Prof. Raster (LSE). I recently graduated with a master's degree in economics from the Paris School of Economics. Besides juggling with data and running regressions, I'm also a football addict and always miss my bike when I'm not on it.
+Welcome and Servus! I'm an economist currently working as pre-doctoral research assistant for Prof. Tom Raster (LSE). I recently graduated with a master's degree in economics from the Paris School of Economics. Besides juggling with data and running regressions, I'm also a football addict and always miss my bike when I'm not on it.
 
 ## Research Interest
 
