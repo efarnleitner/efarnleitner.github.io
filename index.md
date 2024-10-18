@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="sherlock.JPG">
 
 
-Welcome and Servas! I'm an economist currently working at IIASA's [Migration and Sustainable Development](https://iiasa.ac.at/programs/population-and-just-societies-popjus/migration-and-sustainable-development) research group. I am also a PhD candidate at the Vienna University of Economics and Business jointly supervised by Jesús Crespo Cuaresma and Roman Hoffmann. Besides juggling with data and running regressions, I'm also a football addict and always miss my bike when I'm not on it.
+Welcome and Servas! I'm an economist currently working at IIASA's [Migration and Sustainable Development](https://iiasa.ac.at/programs/population-and-just-societies-popjus/migration-and-sustainable-development) research group. Besides juggling with data and running regressions, I'm also a football addict and always miss my bike when I'm not on it.
 
 ## Research Interest
 
